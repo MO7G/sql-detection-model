@@ -48,7 +48,4 @@ Now that you have set up the virtual environment and installed the dependencies,
 
 
 
-## Additional Notes
-
-Any additional information, usage examples, or troubleshooting tips can be added here.
 
