@@ -1,6 +1,6 @@
 # Project Name
 
-Brief project description here.
+This project is about a tool that helps protect websites from SQL injection attacks. SQL injections are a common way hackers try to break into databases. Our model checks SQL queries to find and stop these attacks, keeping the website and its data safe.
 
 ## Getting Started
 
